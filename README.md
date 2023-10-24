@@ -5,7 +5,8 @@ Checking realtime weather by city
 Featur
 data from openweather api
 Type the city name and press "Enter" or click the "search button"
-![圖片](https://github.com/makise210/Weather_app/assets/48115073/5f6d6ce1-eea5-44af-87cf-a6eb3efcef4b)
+![圖片](https://github.com/makise210/Weather_app/assets/48115073/89e93757-70fd-424c-bd4a-e9658c46ec1b)
+
 
 The backgroung will change with the weather
 ![圖片](https://github.com/makise210/Weather_app/assets/48115073/22a142a3-9b65-47f6-9d75-e204396ed848)
